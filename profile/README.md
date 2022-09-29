@@ -12,3 +12,4 @@
 2. At the end of each practice lesson, we discuss issue assignments and some students get assigned to issues
 3. If you want to work on some unassigned issue between lessons (and don't want to wait until next lesson) - please post a message in Telegram group. If there are no objections - you will be assigned to this issue.
 4. If you want to work on some issue and there is already assignee - please contact them. You can work on issues together, but assignee is responsible for coordinating your contribution.
+5. If you want to work on some functionality, but there is no issue for it - please discuss it, either during lesson or in Telegram group. Then the issues will be added and you can work on them.
