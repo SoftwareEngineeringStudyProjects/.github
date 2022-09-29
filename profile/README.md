@@ -1,3 +1,9 @@
+# General ideas
+1. This document contains all relevant development procedures, and/or links to other more detailed explanations
+2. Let's try to follow these procedures, and if something doesn't work - let's discuss it (e.g. in Telegram group), reach some understanding about proposed changes and then write them down in this document. 
+3. If you don't understand some procedure, or if you believe it should be changed and/or abandoned - please don't just ignore it, please post your concerns in Telegram group, or discuss them during lessons.
+4. We don't want to create "bureaucracy for the sake of bureaucracy" - each procedure should be meaningful and useful. If you believe there is a better way to do something - please talk about it (e.g. in Telegram group, or during lessons)
+
 # Contributing
 1. Choose an issue to work on (**not a multi-issue**)
 2. You should be assigned to this issue - see [assignment procedure details](#assigning-contributors-to-issues)
