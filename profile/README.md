@@ -4,6 +4,12 @@
 3. If you don't understand some procedure, or if you believe it should be changed and/or abandoned - please don't just ignore it, please post your concerns in Telegram group, or discuss them during lessons.
 4. We don't want to create "bureaucracy for the sake of bureaucracy" - each procedure should be meaningful and useful. If you believe there is a better way to do something - please talk about it (e.g. in Telegram group, or during lessons)
 
+# Programming languages
+1. Our projects can be in different languages
+2. Interaction between parts in different languages is done via CLI for now (e.g. implementation in LangA calls CLI for LangB, then can use changes in filesystem or other storages)
+3. You may want to port some features available in one language to another language - in this case, please discuss it in Telegram group, create issues and start working
+4. [Language-specific details](LanguageSpecific.md)
+
 # Contributing
 1. Choose an issue to work on (**not a multi-issue**)
 2. You should be assigned to this issue - see [assignment procedure details](#assigning-contributors-to-issues)
