@@ -14,10 +14,11 @@
 1. Choose an issue to work on (**not a multi-issue**)
 2. You should be assigned to this issue - see [assignment procedure details](#assigning-contributors-to-issues)
 3. Fork repository (or pull latest changes if you have forked it previously), implement issue in your forked repository
-4. Create pull request (single pull request per issue), reference issue in pull request
-5.  Someone with write access (currently organization owner @kzhereb ) reviews pull requests, either accepts it, or comments on what should be changed
-6. (Optional) Other contributors can also review pull request and comment on it (procedure TBD)
-7.  Pull request gets integrated into main repository, and issue gets closed
+4. Before sharing your changes, please sync your fork with upstream repository (sync in web interface, then pull in your git client), fix merge conflicts if needed
+5. Create pull request (single pull request per issue), reference issue in pull request
+6.  Someone with write access (currently organization owner @kzhereb ) reviews pull requests, either accepts it, or comments on what should be changed
+7. (Optional) Other contributors can also review pull request and comment on it (procedure TBD)
+8.  Pull request gets integrated into main repository, and issue gets closed
 
 # Assigning contributors to issues
 1. In each student group, there is (at least) one student with Triage rights to repository; this student can assign contributors to issues
